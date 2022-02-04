@@ -1,0 +1,79 @@
+body {
+  background-color: antiquewhite;
+}
+
+.body {
+  background-color: violet;
+}
+
+.log {
+  position: inherit;
+}
+
+.menu {
+  display: inline-table;
+}
+
+.servicio {
+  color: blueviolet;
+  line-height: 10;
+  display: inline;
+  position: relative;
+  bottom: 200px;
+  left: 300px;
+}
+
+.servicio1 {
+  color: blueviolet;
+  line-height: 10;
+  display: inline;
+  position: relative;
+  bottom: 200px;
+  left: 400px;
+}
+
+.servicio2 {
+  color: blueviolet;
+  line-height: 10;
+  display: inline;
+  position: relative;
+  bottom: 200px;
+  left: 500px;
+}
+
+.servicio3 {
+  color: blueviolet;
+  line-height: 10;
+  display: inline;
+  position: relative;
+  bottom: 200px;
+  left: 600px;
+}
+
+.estetico {
+  font-style: italic;
+}
+
+.belleza {
+  font-style: italic;
+}
+
+.laminado {
+  display: table;
+  background-color: #f0b7b7;
+  font-family: fantasy;
+}
+
+.lucir {
+  font-style: oblique;
+}
+
+.incluye {
+  font-style: oblique;
+}
+
+.lista {
+  font-style: oblique;
+}
+
+/*# sourceMappingURL=style.css.map */
